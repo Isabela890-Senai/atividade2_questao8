@@ -1,3 +1,25 @@
+## Melhores Destinos Para as Férias Perfeitas !!
+
+Olá meu nome é Isabela cristina e estou fazendo curso de Informática pra Intrent no Senai!!
+<br>
+Como Proposta de uma atividade, devriamos personalizar uma pagina ultilizando o GitHub Pages, pensando nisso desenvolvi uma página mostrando os 5 melhos destinos do Brasil para curtir as melhores férias, afinal de contas quem não gosta de vaijar!? Eu particularmente Amoo!!
+<br>
+<div align="center">
+<img src="https://user-images.githubusercontent.com/98486061/151232572-9151610c-602b-408f-9cc6-f2f277d7a4f1.jpg"" width="300px" />
+</div>
+ [editor on GitHub](https://github.com/Isabela890-Senai/atividade2_questao8/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
+
+## 1- Fernando de Noronha
+<br>
+Fernando de Noronha é uma unanimidade: quem nunca foi quer ir, quem já foi pretende voltar (e o quanto antes). As praias de água cristalina (que estão entre as melhores praias do Brasil), a rica vida marinha, as formações rochosas e a natureza bem preservada enchem os olhos dos visitantes, que não raramente voltam para casa afirmando ter encontrando o paraíso brasileiro.                                                                                                                               
+<br>
+<div align="center">
+<img src="https://user-images.githubusercontent.com/98486061/151235664-1103b0f0-8bd0-440e-8100-b1242ec3312a.jpg"" width="300px" />
+</div>                                                                                                                               
+                                                                                                                          
+
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/Isabela890-Senai/atividade2_questao8/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
