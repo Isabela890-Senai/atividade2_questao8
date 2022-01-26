@@ -14,7 +14,7 @@ Como Proposta de uma atividade, devriamos personalizar uma pagina ultilizando o 
 Fernando de Noronha é uma unanimidade: quem nunca foi quer ir, quem já foi pretende voltar (e o quanto antes). As praias de água cristalina (que estão entre as melhores praias do Brasil), a rica vida marinha, as formações rochosas e a natureza bem preservada enchem os olhos dos visitantes, que não raramente voltam para casa afirmando ter encontrando o paraíso brasileiro.                                                                                                                               
 <br>
 <div align="center">
-<img src="https://user-images.githubusercontent.com/98486061/151235664-1103b0f0-8bd0-440e-8100-b1242ec3312a.jpg"" width="300px" />
+<img src="https://user-images.githubusercontent.com/98486061/151235664-1103b0f0-8bd0-440e-8100-b1242ec3312a.jpg"" width="300px"" />
 </div>                                                                                                                               
                                                                                                                           
 
