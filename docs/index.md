@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Merlhores Destinos de MG
 
 You can use the [editor on GitHub](https://github.com/Isabela890-Senai/atividade2_questao8/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
 
