@@ -1,6 +1,7 @@
-## Merlhores Destinos de MG
+## Merlhores Destinos Para as Férias Perfeitas !!
 
-You can use the [editor on GitHub](https://github.com/Isabela890-Senai/atividade2_questao8/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
+[Image](https://www.melhoresdestinos.com.br/wp-content/uploads/2019/10/lencois-chapada-diamantina-820x547.jpg)
+ [editor on GitHub](https://github.com/Isabela890-Senai/atividade2_questao8/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
